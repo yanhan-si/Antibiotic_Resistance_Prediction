@@ -1,0 +1,8 @@
+# General
+.DS_Store
+
+# data folder
+data/
+
+#  iPython files
+*.ipynb_checkpoints/
