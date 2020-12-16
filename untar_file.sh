@@ -2,7 +2,7 @@
 # Unzip file
 # 79: --------------------------------------------------------------------------
 # Author: Yanhan Si
-# run this file using zip untar_file.sh
+# run this file using zsh untar_file.sh
 # Date: Dec 15, 2020
 
 # if dir doesn't exist
